@@ -1,7 +1,7 @@
 {
     "apartments": [
         {
-            "id": 1,
+            "id": "1",
             "image": "https://www.pexels.com/photo/photo-of-living-room-1457842/",
             "description": "This apartment is on the second floor. It has renovated wood floor, washer & dryer, dishwasher, glass sink and an Oven. It is located next to the lake with beautiful view from the dinning. For more information call us or visit us in our office.",
             "type": "One Bedroom",
@@ -9,7 +9,7 @@
             "price": "900-1,100"
         },
         {
-            "id": 2,
+            "id": "2",
             "image": "https://www.pexels.com/photo/photo-of-living-room-3209045/",
             "description": "This apartment is on the third floor. It has a carpet, washer & dryer, dishwasher, glass sink and an Oven, and a microwave. There's also a balcony right as you leave your bedroom It is located next to the lake with beautiful view from the dinning. For more information call us or visit us in our office.",
             "type": "Two Bedroom",
@@ -17,7 +17,7 @@
             "price": "1,300-1,500"
         },
         {
-            "id": 3,
+            "id": "3",
             "image": "https://www.pexels.com/photo/living-room-3797991/",
             "description": "This apartment is on the First floor. It has renovated wood floor, washer & dryer, dishwasher, glass sink and an Oven. It is located next to the parking lot which make it easy for you to get your grocery in the house quick. For more information call us or visit us in our office.",
             "type": "One Bedroom",
@@ -25,7 +25,7 @@
             "price": "850-1,000"
         },
         {
-            "id": 4,
+            "id": "4",
             "image": "https://www.pexels.com/photo/interior-of-stylish-living-room-with-yellow-soft-furniture-4138152/",
             "description": "Three bedroom with two balconies. One is shared while the other one is for the master bedroom. It has dryer & washer, oven, microwave, dishwasher, fridge, and two pantries. This three bedroom is available on the third floor.",
             "type": "Three Bedroom",
@@ -33,7 +33,7 @@
             "price": "1,600-1,800"
         },
         {
-            "id": 5,
+            "id": "5",
             "image": "https://www.pexels.com/photo/white-sofa-beside-brown-wooden-staircase-3705529/",
             "description": "Our four bedroom apartments are renovated. They have wooden floors. This apartment is available on the ground floor. It has a fridge, oven, microwave, and a dishwasher. There are also three and a half bath. For more details please contact us.",
             "type": "Four Bedroom",
@@ -41,7 +41,7 @@
             "price": "1,900-2,100"
         },
         {
-            "id": 6,
+            "id": "6",
             "image": "https://www.pexels.com/photo/interior-design-of-home-1643383/",
             "description": "This apartment is on the third floor. It has a carpet, washer & dryer, dishwasher, glass sink and an Oven, and a microwave. There's also a balcony right as you leave your bedroom It is located next to the lake with beautiful view from the dinning. For more information call us or visit us in our office.",
             "type": "Two Bedroom",
@@ -49,7 +49,7 @@
             "price": "1,400-1,700"
         },
         {
-            "id": 7,
+            "id": "7",
             "image": "https://www.pexels.com/photo/flat-screen-tv-1571458/",
             "description": "This apartment is on the third floor. It has a carpet, washer & dryer, dishwasher, glass sink and an Oven, and a microwave. There's also a balcony right as you leave your bedroom It is located next to the lake with beautiful view from the dinning. For more information call us or visit us in our office.",
             "type": "Two Bedroom",
@@ -57,7 +57,7 @@
             "price": "1,300-1,500"
         },
         {
-            "id": 8,
+            "id": "8",
             "image": "https://www.pexels.com/photo/flat-screen-television-1827054/",
             "description": "Our four bedroom apartments are renovated. They have wooden floors. This apartment is available on the ground floor. It has a fridge, oven, microwave, and a dishwasher. There are also three and a half bath. For more details please contact us.",
             "type": "Four Bedroom",
@@ -65,7 +65,7 @@
             "price": "2,100-2,600"
         },
         {
-            "id": 9,
+            "id": "9",
             "image": "https://www.pexels.com/photo/flat-screen-monitor-on-wall-near-sofa-set-279719/",
             "description": "Three bedroom with two balconies. One is shared while the other one is for the master bedroom. It has dryer & washer, oven, microwave, dishwasher, fridge, and two pantries. This three bedroom is available on the third floor. ",
             "type": "Three Bedroom",
@@ -74,36 +74,3 @@
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
